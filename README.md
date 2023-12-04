@@ -1,1 +1,1 @@
-# online-sho-reactJS
+# online-shop-reactJS
